@@ -1,0 +1,25 @@
+# language: es
+
+  Característica: Crear una Automatización que se encargue de ingresar a la página de Utest.com y proceder a dar clic en la opción de registro (JOIN TODAY) y realizar el diligenciamiento del formulario con la finalidad de crear un nuevo usuario.¡
+    @escenariosindatos
+    Escenario: simular registro
+      Dado 	realizar todo el formulario hasta crear un usuario nuevo
+      Cuando Seleccionar dato del usuario
+      Entonces 	realiza la creacion del usuario
+
+
+    @escenariocondatos
+    Esquema del escenario: simular registros
+      Dado 	realizar todo el formulario hasta crear un usuario nuevo
+      Cuando Seleccionar datos del usuario
+        |<nombre>|<nombre2>|<correo>|<mes>|<año>|<dia>|<marcacelular>|<modelo>|<os>|<contraseña>|
+
+      Entonces 	realiza la creacion del usuario
+
+      Ejemplos:
+        |nombre|nombre2|correo|mes|año|dia|marcacelular|modelo|os|contraseña|
+        |Cristian|Camilo|cristian131@gmail.com|December|1994|11|Apple|Iphone 13 Pro max|Ios 15.1.1|Cristian1345|
+
+
+
+

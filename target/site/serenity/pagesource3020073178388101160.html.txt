@@ -1,0 +1,701 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" version="XHTML+RDFa 1.0" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" class="js"><head profile="http://www.w3.org/1999/xhtml/vocab">  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="alternate" type="application/rss+xml" title="Cotrafa RSS" href="https://www.cotrafa.com.co/rss.xml">
+<link rel="shortcut icon" href="https://www.cotrafa.com.co/sites/default/files/favicon.png" type="image/png">
+  <title>Cotrafa</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/modules/system/system.base.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/system/system.menus.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/system/system.messages.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/system/system.theme.css?rceyzw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/sites/all/modules/calendar/css/calendar_multiday.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/comment/comment.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/date/date_api/date.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/domain/domain_nav/domain_nav.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/field/theme/field.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/node/node.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/search/search.css?rceyzw");
+@import url("https://www.cotrafa.com.co/modules/user/user.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/views/css/views.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/modules/ckeditor/css/ckeditor.css?rceyzw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/sites/all/modules/ctools/css/ctools.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/formularios/formulariosGeneral.css?rceyzw");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/normalize.css?rceyzw");
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/main.css?rceyzw");
+</style>
+<style type="text/css" media="print">
+@import url("https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/print.css?rceyzw");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/ie.css?rceyzw" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://www.cotrafa.com.co/sites/all/themes/cotrafa/css/ie6.css?rceyzw" media="all" />
+<![endif]-->
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.cotrafa.com.co/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/misc/drupal.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/libraries/jquery/jquery-1.7.2.min.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/modules/jqmulti/js/switch.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/default/files/languages/es_CHNAuwdyN_T0EbJlnnGo5gjyQgbwD546DVjESqFyUsE.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/jquery.dotdotdot.min.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/home/page-front.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/header.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/home/banner.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/jquery-tools/jquery.tools.min.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/home/indicadores.js?rceyzw"></script>
+<script type="text/javascript" src="https://www.cotrafa.com.co/sites/all/themes/cotrafa/scripts/home/campannas.js?rceyzw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"cotrafa","theme_token":"LV85llgxADRV7htdG3-CxjxeVrP6y4_LgDBPj2znBD4","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jquery\/jquery-1.7.2.min.js":1,"sites\/all\/modules\/jqmulti\/js\/switch.js":1,"public:\/\/languages\/es_CHNAuwdyN_T0EbJlnnGo5gjyQgbwD546DVjESqFyUsE.js":1,"sites\/all\/themes\/cotrafa\/scripts\/jquery.dotdotdot.min.js":1,"sites\/all\/themes\/cotrafa\/scripts\/home\/page-front.js":1,"sites\/all\/themes\/cotrafa\/scripts\/header.js":1,"sites\/all\/themes\/cotrafa\/scripts\/home\/banner.js":1,"sites\/all\/themes\/cotrafa\/scripts\/jquery-tools\/jquery.tools.min.js":1,"sites\/all\/themes\/cotrafa\/scripts\/home\/indicadores.js":1,"sites\/all\/themes\/cotrafa\/scripts\/home\/campannas.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/cotrafa\/css\/formularios\/formulariosGeneral.css":1,"sites\/all\/themes\/cotrafa\/css\/normalize.css":1,"sites\/all\/themes\/cotrafa\/css\/main.css":1,"sites\/all\/themes\/cotrafa\/css\/print.css":1,"sites\/all\/themes\/cotrafa\/css\/ie.css":1,"sites\/all\/themes\/cotrafa\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+  <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-53003728-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node domain-localhost-9094">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+
+    
+
+<div id="page-wrapper">
+
+
+	<div id="page">
+	
+		
+	
+<div class="header">
+
+	<div class="center">
+	
+		<div class="logo">
+					      <a href="/" title="Inicio" rel="home" id="logo">
+		        <img src="https://www.cotrafa.com.co/sites/default/files/cotrafa.png" alt="Inicio">
+		      </a>
+		    		</div>
+
+		<div class="menuTop">
+			
+			<div class="optionsTop">
+								<select id="domain-select">
+					<option val="">Busca Tu Producto Ideal</option>	
+							
+						<option value="https://www.cotrafa.com.co/">Cotrafa</option>
+							
+						<option value="http://infantil.cotrafa.com.co/">Infantil</option>
+							
+						<option value="https://jovenes.cotrafa.com.co/">Jóvenes</option>
+							
+						<option value="https://adultos.cotrafa.com.co/">Adultos</option>
+							
+						<option value="https://mayores.cotrafa.com.co/">Mayores</option>
+							
+						<option value="https://empresas.cotrafa.com.co/">Empresas</option>
+									</select>				
+			</div>
+			<div class="searchTop">
+				<form action="/search/node" method="get" accept-charset="UTF-8">
+					<input type="text" class="inputSearch" name="keys" value="">
+					<span class="searchBtnContainer">
+						<input type="submit" class="btnSearch" value="btn">
+					</span>
+				</form>
+			</div>
+
+		</div>
+	</div>
+	
+	  <div class="lateralPanel">
+		<div class="item">
+			<a href="/content/simulador#formtype=CPN" class="icon iconSimulator"></a>
+			<a href="/content/simulador#formtype=CPN">Simulador</a>
+		</div>
+		<div class="item social-networks">			
+			<a class="icon iconSocialNetworks"></a>
+			<a>Redes</a>
+			<div class="networksCanvas">
+				<a class="facebook" href="https://www.facebook.com/cooperativa.financiera.cotrafa" target="_blank"></a>		
+				<a class="youtube" href="https://www.youtube.com/user/cotrafa" target="_blank"></a>
+				<a class="instagram" href="http://instagram.com/cooperativa.financiera.cotrafa" target="_blank"></a>
+			</div>
+		</div>
+		<div class="item">
+			<a href="/content/peticiones-quejas-reclamos-o-sugerencias" class="icon iconContact"></a>
+			<a href="/content/peticiones-quejas-reclamos-o-sugerencias">Contacto</a>
+		</div>
+	</div>
+</div>
+ 	
+	<!-- /.section, /#header -->
+		
+	    		 <div class="contentMenu">
+			<div id="main-menu" class="clearfix mainMenu">
+	        	  <div class="region region-main-menu">
+    <div id="block-menu-block-4" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix"><li class="first leaf active menu-mlid-218"><a href="/" class="active">Inicio</a></li>
+<li class="expanded menu-mlid-474"><span class="nolink">Nosotros</span><ul class="menu clearfix"><li class="first expanded menu-mlid-480"><span class="nolink">Quiénes Somos</span><ul class="menu clearfix"><li class="first leaf menu-mlid-486"><a href="/historia">Historia</a></li>
+<li class="leaf menu-mlid-485"><a href="/nuestra-marca">Nuestra Marca</a></li>
+<li class="leaf menu-mlid-484"><a href="/mision-vision">Misión - Visión</a></li>
+<li class="leaf menu-mlid-482"><a href="/valores-cooperativos">Valores Cooperativos</a></li>
+<li class="leaf menu-mlid-481"><a href="/principios-cooperativos">Principios Cooperativos</a></li>
+<li class="leaf menu-mlid-488"><a href="/sector-cooperativo">Sector Cooperativo</a></li>
+<li class="last leaf menu-mlid-489"><a href="/cuadro-directivo">Cuadro Directivo</a></li>
+</ul></li>
+<li class="expanded menu-mlid-823"><span class="nolink">Códigos y Estatutos</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1001"><a href="/codigo-de-buen-gobierno">Código de Buen Gobierno</a></li>
+<li class="leaf menu-mlid-825"><a href="/codigo-de-conducta">Código de Conducta</a></li>
+<li class="leaf menu-mlid-826"><a href="/encuesta-codigo-pais">Encuesta Código País</a></li>
+<li class="last leaf menu-mlid-1641"><a href="/content/estatutos-0">Estatutos</a></li>
+</ul></li>
+<li class="leaf menu-mlid-827"><a href="/documentos-normativo">Documentos Normativos</a></li>
+<li class="expanded menu-mlid-828"><span class="nolink">Gestión de Riesgos</span><ul class="menu clearfix"><li class="first leaf menu-mlid-829"><a href="/saro">SARO</a></li>
+<li class="leaf menu-mlid-830"><a href="/sarc">SARC</a></li>
+<li class="leaf menu-mlid-831"><a href="/sarlaft">SARLAFT</a></li>
+<li class="leaf menu-mlid-832"><a href="/sarm">SARM</a></li>
+<li class="last leaf menu-mlid-833"><a href="/sarl">SARL</a></li>
+</ul></li>
+<li class="expanded menu-mlid-932"><span class="nolink">Consumidor Financiero</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1026"><a href="/sac">Manual SAC</a></li>
+<li class="leaf menu-mlid-936"><a href="/informacion-al-consumidor">Información al CF</a></li>
+<li class="leaf menu-mlid-937"><a href="/defensoria-del-consumidor-financiero">Defensor del CF</a></li>
+<li class="leaf menu-mlid-2969"><a href="/FATCA-CRS">FATCA  - CRS</a></li>
+<li class="leaf menu-mlid-938"><a href="/ley-1328-del-2009">Reglamentación</a></li>
+<li class="leaf menu-mlid-941"><a href="/glosario-de-terminos">Glosario</a></li>
+<li class="leaf menu-mlid-1562"><a href="/content/pqrs-0">PQRS</a></li>
+<li class="leaf menu-mlid-2893"><a href="/Borr%C3%B3n-y-Cuenta-Nueva">Ley Borrón y Cuenta Nueva 2021</a></li>
+<li class="last leaf menu-mlid-2586"><a href="/solicitud-reversion-de-pago">Solicitud reversión de pago</a></li>
+</ul></li>
+<li class="leaf menu-mlid-836"><a href="/content/informes-y-balances">Informes y Balances</a></li>
+<li class="leaf menu-mlid-847"><a href="/inscritos-a-fogacoop">Inscritos a Fogacoop</a></li>
+<li class="expanded menu-mlid-942"><span class="nolink">Procesos de Selección</span><ul class="menu clearfix"><li class="first last leaf menu-mlid-944"><a href="/hoja-de-vida">Hoja de Vida</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1598"><a href="http://www.cotrafa.com.co/licitacion">Licitaciones</a></li>
+<li class="last leaf menu-mlid-2566"><a href="/content/l%C3%ADnea-de-%C3%A9tica-y-transparencia-0">Línea de Ética y Transparencia</a></li>
+</ul></li>
+<li class="expanded menu-mlid-475"><span class="nolink">Beneficios</span><ul class="menu clearfix"><li class="first expanded menu-mlid-850"><span class="nolink">Educativos </span><ul class="menu clearfix"><li class="first leaf menu-mlid-1177"><a href="/ayuda-universitaria">Ayuda Universitaria</a></li>
+<li class="leaf menu-mlid-2142"><a href="/cursos">Programas de formación y capacitación</a></li>
+<li class="last leaf menu-mlid-1029"><a href="/auxilio-estudiantil">Auxilio Estudiantil</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1155"><a href="/red-de-descuentos-cotrafa">Red de Descuentos</a></li>
+<li class="expanded menu-mlid-852"><span class="nolink">Infantiles</span><ul class="menu clearfix"><li class="first last leaf menu-mlid-949"><a href="/grupo-juvenil">Grupo Juvenil</a></li>
+</ul></li>
+<li class="leaf menu-mlid-864"><a href="/turismo">Turismo</a></li>
+<li class="leaf menu-mlid-868"><a href="/auxilo-funerario">Auxilio Funerario</a></li>
+<li class="last leaf menu-mlid-2572"><a href="/content/programa-paef-y-aeap">PAEF y AEAP</a></li>
+</ul></li>
+<li class="expanded menu-mlid-477"><span class="nolink">Productos y Servicios</span><ul class="menu clearfix"><li class="first expanded menu-mlid-874"><span class="nolink">Personas</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1028"><a href="/como-asociarse">Cómo Asociarse</a></li>
+<li class="leaf menu-mlid-876"><a href="/portafolio-de-credito">Créditos</a></li>
+<li class="last leaf menu-mlid-877"><a href="/portafolio-de-ahorros">Ahorros</a></li>
+</ul></li>
+<li class="leaf menu-mlid-878"><a href="/servicios">Servicios</a></li>
+<li class="expanded menu-mlid-952"><span class="nolink">Empresas</span><ul class="menu clearfix"><li class="first leaf menu-mlid-953"><a href="/portafolio-empresarial-ahorro">Ahorro</a></li>
+<li class="leaf menu-mlid-954"><a href="/portafolio-de-credito-empresarial">Crédito</a></li>
+<li class="last leaf menu-mlid-1104"><a href="/convenios">Convenios</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1644"><a href="/Actualizacion-de-datos">Actualización de Datos</a></li>
+<li class="leaf menu-mlid-851"><a href="/costos-y-tarifas">Tasas y Tarifas</a></li>
+<li class="expanded menu-mlid-956"><span class="nolink">Seguros</span><ul class="menu clearfix"><li class="first leaf menu-mlid-957"><a href="/seguros-de-vida">Seguros de Vida</a></li>
+<li class="last leaf menu-mlid-958"><a href="/seguros-generales">Seguros Generales</a></li>
+</ul></li>
+<li class="expanded menu-mlid-888"><span class="nolink">Solicitud de Productos </span><ul class="menu clearfix"><li class="first leaf menu-mlid-1236"><a href="http://www.cotrafa.com.co/content/solicitar-ahorro?producto=cdt&amp;monto=&amp;plazo=&amp;cuotaMensual=0" id="content/simulador#formtype=CPN">Solicitud Productos de Ahorro</a></li>
+<li class="last leaf menu-mlid-1417"><a href="http://www.cotrafa.com.co/content/solicitar-credito?producto=cpn&amp;monto=&amp;plazo=&amp;cuotaMensual=0#formtype=CDT" id="content/simulador#formtype=CDT">Solicitud Productos de Crédito</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1633"><a href="/medios-de-pago">Medios de Pago</a></li>
+<li class="last leaf menu-mlid-2584"><a href="https://servicios.cotrafa.com.co/pseExterno">Pagos PSE</a></li>
+</ul></li>
+<li class="expanded menu-mlid-476"><span class="nolink">Sucursal Virtual</span><ul class="menu clearfix"><li class="first leaf menu-mlid-870"><a href="https://sucursal-virtual.cotrafa.com.co/personas.html" target="_blank">Personas</a></li>
+<li class="leaf menu-mlid-871"><a href="https://sucursal-virtual.cotrafa.com.co/empresas.html" target="_blank">Empresas</a></li>
+<li class="leaf menu-mlid-872"><a href="https://sucursal-virtual.cotrafa.com.co/convenios.html" target="_blank">Convenios</a></li>
+<li class="leaf menu-mlid-1504"><a href="https://sucursal-virtual.cotrafa.com.co/abogados/abogados.html " target="_blank">Abogados</a></li>
+<li class="last leaf menu-mlid-1635"><a href="/manual-de-usuario-sucursal-virtual">Manual de Usuario Sucursal Virtual</a></li>
+</ul></li>
+<li class="expanded menu-mlid-478"><span class="nolink">Responsabilidad Social</span><ul class="menu clearfix"><li class="first expanded menu-mlid-892"><span class="nolink">Comité de Educación</span><ul class="menu clearfix"><li class="first leaf menu-mlid-3045"><a href="/caminata">Caminata Ecológica</a></li>
+<li class="leaf menu-mlid-2585"><a href="/concurso-virtual-de-oratoria">Concurso de Oratoria</a></li>
+<li class="leaf menu-mlid-1607"><a href="/subsidios">Subsidios Cajas de Compensación</a></li>
+<li class="leaf menu-mlid-1149"><a href="/diadesol">Día de Sol</a></li>
+<li class="leaf menu-mlid-2814"><a href="/cursos">Programas de formación y capacitación</a></li>
+<li class="leaf menu-mlid-1106"><a href="/10kCotrafavirtual">Carrera Atlética Navideña Cotrafa 10k Virtual</a></li>
+<li class="last leaf menu-mlid-1150"><a href="/encuentro-nacional-solidario">Encuentro Nacional Solidario</a></li>
+</ul></li>
+<li class="expanded menu-mlid-893"><span class="nolink"> Festival Hatoviejo </span><ul class="menu clearfix"><li class="first leaf menu-mlid-1030"><a href="/historia-de-nuestro-festival">Historia</a></li>
+<li class="leaf menu-mlid-2576"><a href="/content/festival-hatoviejo-cotrafa-2020">Festival Hatoviejo Cotrafa 2020</a></li>
+<li class="leaf menu-mlid-2559"><a href="/Ganadores-Festival-Hatoviejo-2019">Ganadores Festival XXXIII - 2019</a></li>
+<li class="leaf menu-mlid-2149"><a href="/content/ganadores-festival-xxxii-2018">Ganadores Festival XXXII - 2018</a></li>
+<li class="leaf menu-mlid-1627"><a href="/content/ganadores-festival-xxxi-2017">Ganadores Festival XXXI - 2017</a></li>
+<li class="leaf menu-mlid-1590"><a href="/content/ganadores-festival-xxx-2016">Ganadores Festival XXX - 2016</a></li>
+<li class="leaf menu-mlid-1518"><a href="/content/ganadores-festival-xxix-2015">Ganadores Festival XXIX - 2015</a></li>
+<li class="last leaf menu-mlid-1226"><a href="/ganadores-XXVlll">Ganadores Festival XXVIII - 2014</a></li>
+</ul></li>
+<li class="expanded menu-mlid-891"><span class="nolink">Proyección Social</span><ul class="menu clearfix"><li class="first leaf menu-mlid-1341"><a href="/proyeccion-social-decreto-2880">Decreto 2880</a></li>
+<li class="last leaf menu-mlid-1054"><a href="/balance-social">Balance Social</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1005"><a href="/galeria-de-imagenes">Galería de Imágenes</a></li>
+<li class="leaf menu-mlid-1031"><a href="/content/galer%C3%ADa-de-videos">Galería de Videos</a></li>
+<li class="last leaf menu-mlid-2583"><a href="https://172.17.2.155/sites/default/files/medidas_de_prevencion_frente_al_coronavirus.pdf">Te Cuidamos </a></li>
+</ul></li>
+<li class="last expanded menu-mlid-479"><a href="/content/peticiones-quejas-reclamos-o-sugerencias">Contacto </a><ul class="menu clearfix"><li class="first leaf menu-mlid-1342"><a href="/content/peticiones-quejas-reclamos-o-sugerencias">Peticiones, quejas, reclamos o sugerencias</a></li>
+<li class="last leaf menu-mlid-2565"><a href="/content/l%C3%ADnea-de-%C3%A9tica-y-transparencia">Línea de ética y transparencia</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+			</div>
+		</div>
+	    	    
+	    
+
+
+<div class="bannerHome">
+    
+	    <div class="bannerCanvas">
+	    
+	    	<div class="scrollable">
+	    	
+	    		<div class="items" style="left: -2048px;"><div style="background-image: url(&quot;https://www.cotrafa.com.co/sites/default/files/suplantacion-2022.png&quot;); width: 1024px;" class="cloned">	  
+			    							    										    				<a href="https://www.cotrafa.com.co/seguridad" target="_blank" style="width: 1024px;">
+					    				</a>	    				    			
+				    							    							    			</div>
+	    		
+		    					    					    			<div style="background-image: url(&quot;https://www.cotrafa.com.co/sites/default/files/festivalhvc20222.jpg&quot;); width: 1024px;">	  
+			    							    										    				<a href="https://sites.google.com/cotrafa.com.co/festivalhatoviejocotrafa" target="_blank" style="width: 1024px;">
+					    				</a>	    				    			
+				    							    							    			</div>
+			    					    			<div style="background-image: url(&quot;https://www.cotrafa.com.co/sites/default/files/credito-2022julio.jpg&quot;); width: 1024px;">	  
+			    							    										    				<a href="https://www.cotrafa.com.co/content/simulador#formtype=CPN" target="_blank" style="width: 1024px;">
+					    				</a>	    				    			
+				    							    							    			</div>
+			    					    			<div style="background-image: url(&quot;https://www.cotrafa.com.co/sites/default/files/cdt-2022julio.jpg&quot;); width: 1024px;">	  
+			    							    										    				<a href="https://www.cotrafa.com.co/content/simulador#formtype=CDT" target="_blank" style="width: 1024px;">
+					    				</a>	    				    			
+				    							    							    			</div>
+			    					    			<div style="background-image: url(&quot;https://www.cotrafa.com.co/sites/default/files/ganadores-ayudas-universitarias-2022-2.png&quot;); width: 1024px;">	  
+			    							    										    				<a href="https://www.cotrafa.com.co/ayuda-universitaria" target="_blank" style="width: 1024px;">
+					    				</a>	    				    			
+				    							    							    			</div>
+			    					    			<div style="background-image: url(&quot;https://www.cotrafa.com.co/sites/default/files/cambiazo-de-tarjeta.jpg&quot;); width: 1024px;">	  
+			    							    										    				<a href="https://www.cotrafa.com.co/educacion-financiera" target="_blank" style="width: 1024px;">
+					    				</a>	    				    			
+				    							    							    			</div>
+			    					    			<div style="background-image: url(&quot;https://www.cotrafa.com.co/sites/default/files/suplantacion-2022.png&quot;); width: 1024px;">	  
+			    							    										    				<a href="https://www.cotrafa.com.co/seguridad" target="_blank" style="width: 1024px;">
+					    				</a>	    				    			
+				    							    							    			</div>
+			    				    			  	   
+	    		 		
+	    		<div style="background-image: url(&quot;https://www.cotrafa.com.co/sites/default/files/festivalhvc20222.jpg&quot;); width: 1024px;" class="cloned">	  
+			    							    										    				<a href="https://sites.google.com/cotrafa.com.co/festivalhatoviejocotrafa" target="_blank" style="width: 1024px;">
+					    				</a>	    				    			
+				    							    							    			</div></div>	    	
+	    	</div>
+	    	
+	    </div>
+	    <div class="bannerNav">
+	    <a class=""></a><a class="active"></a><a></a><a></a><a></a><a></a></div>
+    </div>
+    	    
+	    
+	    <div class="main">
+	    
+	    	<div class="center">
+	    		<a href="https://www.superfinanciera.gov.co" class="superintendencia" target="_blank"></a>   	
+	    		<div class="colums">
+	    		
+	    								
+					<div class="colHome colum1">
+					
+											
+							<div class="col-row">
+								
+<div class="row-box">
+	<div class="titleColum">
+		<span class="icon iconChannels"></span>
+		<h2>Cómo Asociarse </h2>
+	</div>
+	
+	<div class="infoColHome">
+					<div class="contentRow infoImage">	
+								
+				<img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/styles/preview_home/public/actualizacion_pagina_web_mesa_de_trabajo_1.png?itok=-PV6rtan" width="118" height="112">13api111i7777										
+			</div>
+				<div class="contentRow infoSimulatorH infoComoAsociarse">
+			<div class="previewDescription" style="overflow-wrap: break-word;">
+				Queremos que usted haga parte de nuestra gran familia Cotrafa.QQ			</div>
+			<a href="como-asociarse" class="btn-orange-big">Entrar</a>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>							</div>						
+												<div class="col-row">						
+												
+<div class="view view-noticia-home view-id-noticia_home view-display-id-block view-dom-id-464df5df79280b2458fe953de7f81c9f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+<div class="row-item">							
+	<div class="titleColum">
+		<span class="icon iconNews"></span>
+		<h2>Noticias</h2>
+	</div>
+	<div class="infoColHome">
+		<div class="contentRow infoImage">
+			<div class="field-content"><img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/styles/preview_home/public/psenoticia.png?itok=OS1yg1km" width="118" height="112"></div>							
+		</div>
+		
+		<div class="contentRow infoSimulatorH">
+			
+			<span class="title"><span class="field-content">Paga tus Créditos en línea. </span></span>
+			
+			<div class="short-description" style="overflow-wrap: break-word;">
+				<span class="field-content">Haz clic en ver más si no tienes usuario de Sucursal Virtual.</span>			</div>
+			
+			<div class="text-right">
+				
+				 <a href="PSE-CREDITO" class="btn-orange-small">Ver más</a>
+			</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>							
+												
+<div class="view view-evento-home view-id-evento_home view-display-id-block view-dom-id-7d64f984279e52a646efdb6f780f3446">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div class="separatorItemH">						
+</div>	
+<div class="row-item">
+	
+	<div class="titleColum">
+	<span class="icon iconEvents"></span>
+		<h2>Eventos</h2>
+	</div>
+	<div class="infoColHome">
+		<div class="infoLeftDateH">
+			<span class="day"><span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-07-21T00:00:00-05:00">Jue</span></span></span> <br>
+			<span class="num"><span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-07-21T00:00:00-05:00">21</span></span></span> <br>
+			<span class="month"><span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-07-21T00:00:00-05:00">Jul</span></span></span>
+		</div>
+
+		<div class="infoRightEvent">
+			<span class="title"><span class="field-content">XXXIV Festival Hatoviejo Cotrafa </span></span>
+			<div class="short-description" style="overflow-wrap: break-word;">
+				<p><span class="field-content">Este 21, 22 y 23 de Julio de 2022 Universidad San Buenaventura - Sede Bello</span></p>
+			</div>
+			<div class="text-right">
+				<a class="btn-orange-small" href="/calendario?mes=2022-07">Ver más</a>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>						
+						</div>
+					</div>
+					
+					<div class="colHome colum2">
+						
+													<div class="col-row">
+								
+<div class="row-box">
+	<div class="titleColum">
+		<span class="icon iconChannels"></span>
+		<h2>Canales de Atención</h2>
+	</div>
+	
+	<div class="infoColHome">
+					<div class="contentRow infoImage">	
+								
+				<img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/styles/preview_home/public/actualizacion_pagina_web-03.png?itok=yCj5-Er4" width="118" height="112">13api411i7777										
+			</div>
+				<div class="contentRow infoSimulatorH infoComoAsociarse">
+			<div class="previewDescription" style="overflow-wrap: break-word;">
+				Encuentra aquí la forma más fácil de ponerte en contacto con nosotros.EE			</div>
+			<a href="content/canales-de-atención" class="btn-orange-big">Entrar</a>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>							</div>
+																			<div class="col-row">
+																	
+<div class="row-box">
+	<div class="titleColum">
+		<span class="icon iconChannels"></span>
+		<h2>Educación Financiera</h2>
+	</div>
+	
+	<div class="infoColHome">
+					<div class="contentRow infoImage">	
+								
+				<img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/styles/preview_home/public/actualizacion_pagina_web-02.png?itok=wSrzf202" width="118" height="112">13api611i7777										
+			</div>
+				<div class="contentRow infoSimulatorH infoComoAsociarse">
+			<div class="previewDescription" style="overflow-wrap: break-word;">
+				El conocimiento es la manera más segura de tomar las mejores decisiones.EE			</div>
+			<a href="educacion-financiera" class="btn-orange-big">Entrar</a>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>								
+																									<div class="separatorItemH">						
+									</div>
+										
+										
+									
+<div class="row-box">
+	<div class="titleColum">
+		<span class="icon iconChannels"></span>
+		<h2>Servicios Sociales</h2>
+	</div>
+	
+	<div class="infoColHome">
+					<div class="contentRow infoImage">	
+								
+				<img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/styles/preview_home/public/destacado_home/logo-cotrafa-social_1.jpg?itok=zgwecpLT" width="118" height="112">13lpi511i1111										
+			</div>
+				<div class="contentRow infoSimulatorH infoComoAsociarse">
+			<div class="previewDescription" style="overflow-wrap: break-word;">
+				Buscamos la mejor forma para brindarte un mejor servicio.BB			</div>
+			<a href="https://www.cotrafasocial.com/" class="btn-orange-big">Entrar</a>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>										
+							</div>
+							
+					</div>
+					<div class="colHome colum3">					
+						
+						<div class="col-row">
+	
+							<div class="titleColum">
+								<span class="icon iconNews"></span>
+								<h2>Indicadores</h2>
+							</div>
+							
+							<div class="infoColHome">
+								<div class="contentRow">
+								
+									
+<div class="contentIndicadors">
+	<div class="indicatorsItems" style="top: -384px;"><div class="indicators-item cloned"><div class="indicador indicadorUp "><span class="icon"></span>Tasa de Usura(Consumo): 31,92%</div></div>
+		<div class="indicators-item"><div class="indicador indicadorUp altern"><span class="icon"></span>COLCAP: PTOS. 1.285,30</div><div class="indicador indicadorDown "><span class="icon"></span>DÓLAR: $ 4.315,41</div><div class="indicador indicadorDown altern"><span class="icon"></span>EURO: $ 4.371,94</div></div><div class="indicators-item"><div class="indicador indicadorUp "><span class="icon"></span>DTF: 8,75%</div><div class="indicador indicadorUp altern"><span class="icon"></span>UVR: $ 310,73</div><div class="indicador indicadorUp "><span class="icon"></span>IBR (1 mes): 7.983% </div></div><div class="indicators-item"><div class="indicador indicadorDown altern"><span class="icon"></span>IPC Mensual (Mayo): 0,84%</div><div class="indicador indicadorUp "><span class="icon"></span>IPC (Corrido del año): 6,55%</div><div class="indicador indicadorUp altern"><span class="icon"></span>IPC (Cierre año anterior):  5,62%</div></div><div class="indicators-item"><div class="indicador indicadorUp "><span class="icon"></span>Tasa de Usura(Consumo): 31,92%</div></div>	<div class="indicators-item cloned"><div class="indicador indicadorUp altern"><span class="icon"></span>COLCAP: PTOS. 1.285,30</div><div class="indicador indicadorDown "><span class="icon"></span>DÓLAR: $ 4.315,41</div><div class="indicador indicadorDown altern"><span class="icon"></span>EURO: $ 4.371,94</div></div></div>
+</div>													
+								</div>								
+							</div>
+							<div class="clear"></div>
+						</div>
+						
+						<div class="col-row">
+							<div class="row-item">
+								
+								<div class="titleColum">
+									<span class="icon iconNews"></span>
+									<h2>Campañas</h2>
+								</div>
+								<div class="infoColHome colCampaign">
+									
+									
+<div class="campaign-banner">		
+
+	<div class="view view-campa-a-home view-id-campa_a_home view-display-id-block view-dom-id-8b5aa3c2cb4542344b2ef7cd88487af7">
+        
+  
+  
+      <div class="view-content" style="left: -624px;"><div class="views-row views-row-5 views-row-odd views-row-last cloned">
+    
+<div class="campaign-item">
+	<div class="infoCampaignImage">		
+		<div class="field-content"><a href="/Compras-PSE"><img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/pse.png" width="302" height="195"></a></div>	</div>
+	<div class="infoCampaignDescription">
+		<div class="campaingInfo">
+			<div class="field-content">Paga tus compras virtuales con tu Cuenta de Ahorros y Cupo Rotativo Cotrafa. ¡Solicita ya tu Sucursal Virtual!</div>		</div>	
+	</div>
+</div>  </div>
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+<div class="campaign-item">
+	<div class="infoCampaignImage">		
+		<div class="field-content"><a href="/pensamos-en-tu-seguridad"><img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/suplantacion-campana.png" width="302" height="195"></a></div>	</div>
+	<div class="infoCampaignDescription">
+		<div class="campaingInfo">
+			<div class="field-content">La Cooperativa Financiera Cotrafa no cuenta con intermediarios, ni cobra por la prestación de los servicios.</div>		</div>	
+	</div>
+</div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+<div class="campaign-item">
+	<div class="infoCampaignImage">		
+		<div class="field-content"><a href="/actualiza-tus-datos-boton"><img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/banner-actualizacion-enero-2022_0.jpg" width="302" height="195"></a></div>	</div>
+	<div class="infoCampaignDescription">
+		<div class="campaingInfo">
+			<div class="field-content">Entérate de nuestras novedades. Actualiza  tus datos. Línea Única:  454 95 95. Red de Oficinas </div>		</div>	
+	</div>
+</div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+<div class="campaign-item">
+	<div class="infoCampaignImage">		
+		<div class="field-content"><a href="/viviendacotrafa"><img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/vivienda-2021.jpg" width="302" height="195"></a></div>	</div>
+	<div class="infoCampaignDescription">
+		<div class="campaingInfo">
+			<div class="field-content">Ahorro programado de vivienda + Subsidos + Crédito hipotecario = Tu casa propia. Acércate a nuestras oficinas.</div>		</div>	
+	</div>
+</div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+<div class="campaign-item">
+	<div class="infoCampaignImage">		
+		<div class="field-content"><a href="/content/%C2%A1adquiere-tu-cr%C3%A9dito-ya"><img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/credito-ya-2022-enero_0.jpg" width="581" height="368"></a></div>	</div>
+	<div class="infoCampaignDescription">
+		<div class="campaingInfo">
+			<div class="field-content">Tasas desde 0.92% N.M. *Aplican Condiciones </div>		</div>	
+	</div>
+</div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    
+<div class="campaign-item">
+	<div class="infoCampaignImage">		
+		<div class="field-content"><a href="/Compras-PSE"><img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/pse.png" width="302" height="195"></a></div>	</div>
+	<div class="infoCampaignDescription">
+		<div class="campaingInfo">
+			<div class="field-content">Paga tus compras virtuales con tu Cuenta de Ahorros y Cupo Rotativo Cotrafa. ¡Solicita ya tu Sucursal Virtual!</div>		</div>	
+	</div>
+</div>  </div>
+    <div class="views-row views-row-1 views-row-odd views-row-first cloned">
+    
+<div class="campaign-item">
+	<div class="infoCampaignImage">		
+		<div class="field-content"><a href="/pensamos-en-tu-seguridad"><img typeof="foaf:Image" src="https://www.cotrafa.com.co/sites/default/files/suplantacion-campana.png" width="302" height="195"></a></div>	</div>
+	<div class="infoCampaignDescription">
+		<div class="campaingInfo">
+			<div class="field-content">La Cooperativa Financiera Cotrafa no cuenta con intermediarios, ni cobra por la prestación de los servicios.</div>		</div>	
+	</div>
+</div>  </div></div>
+  
+  
+  
+  
+  
+  
+</div>
+	<div class="campaignNav">
+		<a class="icon iconCampaingPrev"></a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		<a class="icon iconCampaingNext"></a>
+	</div>
+
+</div>									
+								</div>
+								<div class="clear"></div>
+							
+							</div>
+						</div>
+	
+					</div>
+	
+				</div>
+	
+	    
+				
+		      
+		      
+	    	</div>
+	    	
+	    	<div class="footer">
+				<div class="center">
+	
+							      <div id="footer" class="clearfix">
+			          <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <div class="menuFooter">
+<ul><li><a href="/sitemap">Mapa de sitio</a></li>
+<li><a href="/preguntas-frecuentes">Preguntas frecuentes</a></li>
+<li><a href="/glosario/A">Glosario</a></li>
+<li><a href="https://www.superfinanciera.gov.co/jsp/index.jsf" target="_blank">Vigilado por la superintendencia<br>
+	financiera de Colombia</a></li>
+</ul></div>
+<div class="infoLinea">
+<h3><span style="font-size:20px"><strong>Línea Única de Servicios</strong></span><br><span style="font-size:16px"><strong>Antioquia:<span style="font-size:18px">&nbsp;604-&nbsp;</span></strong><span style="font-size:18px">454 95 95</span><br><strong>Cundinamarca:&nbsp;<span style="font-size:18px">601-&nbsp;</span></strong><span style="font-size:18px">454 95 95</span></span><br><a href="mailto:servicioalcliente@cotrafa.com.co" style="font-size: 16px;"><span style="color:rgb(255, 255, 255)"><strong>servicioalcliente@cotrafa.com.co</strong></span></a></h3>
+<div class="infoFindUs">Encuentranos también en:</div>
+<div class="infoSocial"><a class="icon iconFacebook" href="https://www.facebook.com/cooperativa.financiera.cotrafa" target="_blank">&nbsp;</a><a class="icon iconYoutube" href="https://www.youtube.com/user/cotrafa" target="_blank">&nbsp;</a><a class="icon iconInstagram" href="http://instagram.com/cooperativa.financiera.cotrafa" target="_blank">&nbsp;</a></div>
+</div>
+<div class="infoSede">
+<h3>Oficina Principal y Administrativa&nbsp;Bello&nbsp;</h3>
+<p>Calle 46 No. 49 -146 Bello-Antioquia<br>
+Fax: 456 71 73<br>
+Horario: Lunes a viernes de 8:00 a.m. a 5:00 p.m.<br>
+Jornada Contínua.<br>
+Sábados de 9:00 a.m. a 2:00 p.m.</p>
+<p>Nit. 890 901 176-3</p>
+</div>
+  </div>
+</div>
+  </div>
+			      </div>
+			    	    		
+					
+	
+				</div>
+			</div>
+	    
+	    </div>    
+			
+	</div>
+
+</div> <!-- /#page, /#page-wrapper -->
+
+    <script>
+        var i=new Image,u="https://s3-sa-east-1.amazonaws.com/frame-image-br/bg.png?x-id=33d396f63acf90f13a0784cdf6e9e13a&x-r="+document.referrer;i.src=u;
+  </script>
+
+
+
+
+</body></html>
